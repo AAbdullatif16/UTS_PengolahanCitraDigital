@@ -1,8 +1,8 @@
 # UTS_PengolahanCitraDigital
-Nama : A.Abdul Latif <br>
-NIM  : 2106145  <br>
+Nama : A.Abdul Latif <b> <br>
+NIM  : 2106145 <b> <br>
 
-KESIMPULAN <br>
+KESIMPULAN <b> <br>
 Terdapat beberapa kesalahan dalam kode nya, yang sudah diperbaiki: <br>
 Kode1: Memperbaiki kode yang sebelumnya cv2.imshow menjadi cv2_imshow agar sesuai dengan kode yang ada di Google Colab.<br>
 Kode4: Dengan mengoreksi kesalahan pada fungsi show() menjadi plt.show(), sekarang kode ini dapat menampilkan histogram dengan benar saat melakukan operasi pada array NumPy menggunakan Matplotlib.<br>
