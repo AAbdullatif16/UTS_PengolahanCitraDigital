@@ -3,7 +3,8 @@
 <b> NIM  : 2106145   </b>
 
 <b> KESIMPULAN <b/>
-Terdapat beberapa kesalahan dalam kode nya, yang sudah diperbaiki: Kode1: Memperbaiki kode yang sebelumnya cv2.imshow menjadi cv2_imshow agar sesuai dengan kode yang ada di Google Colab.
+Terdapat beberapa kesalahan dalam kode nya, yang sudah diperbaiki: <br>
+Kode1: Memperbaiki kode yang sebelumnya cv2.imshow menjadi cv2_imshow agar sesuai dengan kode yang ada di Google Colab.<br>
 Kode4: Dengan mengoreksi kesalahan pada fungsi show() menjadi plt.show(), sekarang kode ini dapat menampilkan histogram dengan benar saat melakukan operasi pada array NumPy menggunakan Matplotlib.
 Kode6: Setelah kesalahan penamaan pada variabel (histogr menjadi histogram) diperbaiki, dan penggunaan variabel saat plotting histogram disesuaikan, sehingga konsistensi kode terjaga dan dapat dijalankan dengan benar.
 Kode7: Melalui koreksi kesalahan pada variabel warna (d menjadi b, b menjadi g), sekarang sesuai dengan format warna BGR pada OpenCV.
